@@ -1,0 +1,308 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"iPhone (1st gen)",
+            "desc":"Screen:3.5\" Storage:4/8/16GB Processor:APL0098",
+            "price":15850,
+            "color":"Black,White",
+            "image":"https://cdn.shopify.com/s/files/1/0067/9903/2402/products/Apple-iPhone-SE-64GB-Silver_430530a5-83c8-43c1-a766-f8b03738dd37.jpg?v=1640442091"
+        },
+        {
+            "id":2,
+            "name":"iPhone 3G",
+            "desc":"Screen:3.5\" Storage:8/16GB Processor:APL0098",
+            "price":17990,
+            "color":"Black,White",
+            "image":"https://www.devicespecifications.com/images/model/36092733/320/main.jpg"
+        },
+        {
+            "id":3,
+            "name":"iPhone 3GS",
+            "desc":"Screen:3.5\" Storage:8/16/32GB Processor:APL0278",
+            "price":19990,
+            "color":"Black,White",
+            "image":"https://360view.hum3d.com/zoom/Apple/Apple_iPhone_3GS_White_1000_0001.jpg"
+        },
+        {
+            "id":4,
+            "name":"iPhone 4 (GSM)/iPhone 4 (CDMA)",
+            "desc":"Screen:3.5\" Storage:8/16/32GB Processor:Apple A4",
+            "price": 34500,
+            "color":"Black,White,Blue,Green,Orange,Pink",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRop_ZQljTERW32p1BRLwwj7-LZUregohDjNg&usqp=CAU"
+        },
+        {
+            "id":5,
+            "name":"iPhone 4S",
+            "desc":"Screen:3.5\" Storage:8/16/32/64GB Processor:Apple A5",
+            "price":44500,
+            "color":"Black,White",
+            "image":"https://m.media-amazon.com/images/I/61-TNYa2HOL._SX679_.jpg"
+        },
+        {
+            "id":6,
+            "name":"iPhone 5",
+            "desc":"Screen:4\" Storage:16/32/64GB Processor:Apple A6",
+            "price":45500,
+            "color":"Black & Slate,White & Silver",
+            "image":"https://cdn.shopify.com/s/files/1/0067/9903/2402/products/5sslvr_c99a5562-57bb-4055-83e6-2ba34cd1d434.jpg?v=1640442076"
+        },
+        {
+            "id":7,
+            "name":"iPhone 5C",
+            "desc":"Screen:4\" Storage:8/16/32GB Processor:Apple A6",
+            "price":53500,
+            "color":"White,Blue,Green,Yellow,Pink",
+            "image":"https://www.refurbished.store/cache/images/refurbished-iphone-5c-blauw_600x600_BGresize_16777215-tj.png"
+        },
+        {
+            "id":8,
+            "name":"iPhone 5S",
+            "desc":"Screen:4\" Storage:16/32/64GB Processor:Apple A7",
+            "price":35000,
+            "color":"Space Gray,Gold,Silver",
+            "image":"https://www.smartcellular.in/media/catalog/product/cache/cfaa1692031f009488d1cfea5ce7e1ee/i/p/iphone5ssilver-9dd62.jpg"
+        },
+        {
+            "id":9,
+            "name":"iPhone 6",
+            "desc":"Screen:4.7\" Storage:16/32/64/128GB Processor:Apple A8",
+            "price":53500,
+            "color":"Space Gray,Gold,Silver",
+            "image":"https://www.refurbished.store/cache/images/refurbished-iphone-6-silver_600x600_BGresize_16777215-tj.png"
+        },
+        {
+            "id":10,
+            "name":"iPhone 6 Plus",
+            "desc":"Screen:5.5\" Storage:16/32/64/128GB Processor:Apple A8",
+            "price":58000,
+            "color":"Space Gray,Gold,Silver",
+            "image":"https://www.refurbished.store/cache/images/iphone6-plus-multi-goud_600x600_BGresize_16777215-tj.png"
+        },
+        {
+            "id":11,
+            "name":"iPhone 6S",
+            "desc":"Screen:4.7\" Storage:16/32/64/128GB Processor:Apple A9",
+            "price":62000,
+            "color":"Rose Gold,Gold,Silver,Space Gray",
+            "image":"https://www.refurbished.store/cache/images/iphone-6s-zilver-frontandback_600x600_BGresize_16777215-tj.png"
+        },
+        {
+            "id":12,
+            "name":"iPhone 6S Plus",
+            "desc":"Screen:5.5\" Storage:16/32/64/128GB Processor:Apple A9",
+            "price":72000,
+            "color":"Rose Gold,Gold,Silver,Space Gray",
+            "image":"https://cdn.alloallo.media/catalog/product/apple/iphone/iphone-6s-plus/iphone-6s-plus-silver.jpg"
+        },
+        {
+            "id":13,
+            "name":"iPhone SE (1st gen)",
+            "desc":"Screen:4\" Storage:16/32/64/128GB Processor:Apple A9",
+            "price":16999,
+            "color":"Rose Gold,Gold,Silver,Space Gray",
+            "image":"https://cdn.shopify.com/s/files/1/0067/9903/2402/products/seg_998faece-85ee-4bf1-9fb9-a13ae0177d2b.jpg?v=1640441949"
+        },
+        {
+            "id":14,
+            "name":"iPhone 7",
+            "desc":"Screen:4.7\" Storage:32/64/128/256GB Processor:Apple A10",
+            "price":60000,
+            "color":"Rose Gold,Gold,Silver,Black,Jet Black1,(PRODUCT)RED™",
+            "image":"https://www.refurbished.store/cache/images/iphone-7-rose-multiapple_600x600_BGresize_16777215-tj.png"
+        },
+        {
+            "id":15,
+            "name":"iPhone 7 Plus",
+            "desc":"Screen:5.5\" Storage:32/64/128/256GB Processor:Apple A10",
+            "price":68000,
+            "color":"Rose Gold,Gold,Silver,Black,Jet Black1,(PRODUCT)RED™",
+            "image":"https://www.refurbished.store/cache/images/iphone7-plus-matzwart-multiapple_600x600_BGresize_16777215-tj.png"
+        },
+        {
+            "id":16,
+            "name":"iPhone 8",
+            "desc":"Screen:4.7\" Storage:64/128/256GB Processor:Apple A11",
+            "price":64000,
+            "color":"Silver,Space Grey,Gold,(PRODUCT)RED™",
+            "image":"https://www.refurbished.store/cache/images/iphone-8-rood_600x600_BGresize_16777215-tj.png"
+        },
+        {
+            "id":17,
+            "name":"iPhone 8 Plus",
+            "desc":"Screen:5.5\" Storage:64/128/256GB  Processor:Apple A11",
+            "price":73000,
+            "color":"Silver,Space Grey,Gold,(PRODUCT)RED™",
+            "image":"https://www.refurbished.store/cache/images/iphone-8plus-zilver-multi_600x600_BGresize_16777215-tj.png"
+        },
+        {
+            "id":18,
+            "name":"iPhone X",
+            "desc":"Screen:5.85\" Storage:64/128/256GB  Processor:Apple A11",
+            "price":64266,
+            "color":"Silver,Space Grey",
+            "image":"https://www.refurbished.store/cache/images/iphone-x-zwart_600x600_BGresize_16777215-tj.png"
+        },
+        {
+            "id":19,
+            "name":"iPhone XR",
+            "desc":"Screen:6.1\" Storage:64/128/256GB  Processor:Apple A12",
+            "price":76900,
+            "color":"Yellow,White,Coral,Black,Blue,(PRODUCT)RED™",
+            "image":"https://www.refurbished.store/cache/images/iphone-xr-wit-multiapple_600x600_BGresize_16777215-tj.png"
+        },
+        {
+            "id":20,
+            "name":"iPhone XS",
+            "desc":"Screen:5.85\" Storage:64/128/256/512GB Processor:Apple A12",
+            "price":62999,
+            "color":"Silver,Space Grey,Gold",
+            "image":"https://www.refurbished.store/cache/images/iphone-xsmax-spacegray-multiapple_600x600_BGresize_16777215-tj.png"
+        },
+        {
+            "id":21,
+            "name":"iPhone XS Max",
+            "desc":"Screen:6.46\" Storage:64/128/256/512GB Processor:Apple A12",
+            "price":69586,
+            "color":"Silver,Space Grey,Gold",
+            "image":"https://www.refurbished.store/cache/images/iphone-xsmax-goud-multiapple_600x600_BGresize_16777215-tj.png"
+        },
+        {
+            "id":22,
+            "name":"iPhone 11",
+            "desc":"Screen:6.1\" Storage:64/128/256GB Processor:Apple A13",
+            "price":64900,
+            "color":"Purple,Green,White,Black,Yellow,(PRODUCT)RED™",
+            "image":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-iphone11-purple-2019?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1611169055000"
+        },
+        {
+            "id":23,
+            "name":"iPhone 11 Pro",
+            "desc":"Screen:5.85\" Storage:64/256/512GB Processor:Apple A13",
+            "price":89999,
+            "color":"Silver,Space Grey,Gold,Midnight Green",
+            "image":"https://www.addmecart.com/wp-content/uploads/2022/11/Apple-iPhone-11-Pro-Max-256-GB-Black.jpg"
+        },
+        {
+            "id":24,
+            "name":"iPhone 11 Pro Max",
+            "desc":"Screen:6.46\" Storage:64/256/512GB Processor:Apple A13",
+            "price":95999,
+            "color":"Silver,Space Grey,Gold,Midnight Green",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEsnMfNXJvvl0-Zifal_IsbOYPDztX3y36gmuBTG3rjKS5M1wQO7Yb8PWpu0JC7b7zvPk&usqp=CAU"
+        },
+        {
+            "id":25,
+            "name":"iPhone SE (2nd gen)",
+            "desc":"Screen:4.7\" Storage:64/128/256GB Processor:Apple A13",
+            "price":49900,
+            "color":"Black,White,(PRODUCT)RED™",
+            "image":"https://s3b.cashify.in/gpro/uploads/2020/04/29083207/apple-iphone-se-2-left-side.png"
+        },
+        {
+            "id":26,
+            "name":"iPhone 12",
+            "desc":"Screen:6.1\" Storage:64/128/256GB Processor:Apple A14",
+            "price":79000,
+            "color":"Purple,Green,White,Black,Blue,(PRODUCT)RED™",
+            "image":"https://m.media-amazon.com/images/I/71hIfcIPyxS._SL1500_.jpg"
+        },
+        {
+            "id":27,
+            "name":"iPhone 12 mini",
+            "desc":"Screen:5.4\" Storage:64/128/256GB Processor:Apple A14",
+            "price":69000,
+            "color":"Purple,Green,White,Black,Blue,(PRODUCT)RED™",
+            "image":"https://cdn.shopify.com/s/files/1/0675/5716/3324/products/black1.jpg?v=1673855689"
+        },
+        {
+            "id":28,
+            "name":"iPhone 12 Pro",
+            "desc":"Screen:6.1\" Storage:128/256/512GB Processor:Apple A14",
+            "price":119900,
+            "color":"Silver,Graphite,Gold,Pacific Blue",
+            "image":"https://www.addmecart.com/wp-content/uploads/2022/11/3615.jpg"
+        },
+        {
+            "id":29,
+            "name":"iPhone 12 Pro Max",
+            "desc":"Screen:6.7\" Storage:128/256/512GB Processor:Apple A14",
+            "price":129900,
+            "color":"Silver,Graphite,Gold,Pacific Blue",
+            "image":"https://static.toiimg.com/thumb/resizemode-4,msid-78671024,imgsize-200,width-380/78671024.jpg"
+        },
+        {
+            "id":30,
+            "name":"iPhone 13",
+            "desc":"Screen:6.1\" Storage:128/256/512GB Processor:Apple A15",
+            "price":69999,
+            "color":"Starlight,Midnight,Blue,Pink,Green,(PRODUCT)RED™",
+            "image":"https://www.jiomart.com/images/product/420x420/491997703/apple-iphone-13-128-gb-pink-digital-o491997703-p590798557-0-202208221207.jpeg"
+        },
+        {
+            "id":31,
+            "name":"iPhone 13 mini",
+            "desc":"Screen:5.4\" Storage:128/256/512GB Processor:Apple A15",
+            "price":653289,
+            "color":"Starlight,Midnight,Blue,Pink,Green,(PRODUCT)RED™",
+            "image":"https://m.media-amazon.com/images/I/61F7Xcyux0L._SL1500_.jpg"
+        },
+        {
+            "id":32,
+            "name":"iPhone 13 Pro",
+            "desc":"Screen:6.1\" Storage:128/256/512GB,1TB Processor:Apple A15",
+            "price":144999,
+            "color":"Graphite,Gold,Silver,Sierra Blue,Alpine Green",
+            "image":"https://ismart.co.in/wp-content/uploads/2021/09/iphone-13-pro-graphite-select.png"
+        },
+        {
+            "id":33,
+            "name":"iPhone 13 Pro Max",
+            "desc":"Screen:6.7\" Storage:128/256/512GB,1TB Processor:Apple A15",
+            "price":155999,
+            "color":"Graphite,Gold,Silver,Sierra Blue,Alpine Green",
+            "image":"https://m.media-amazon.com/images/I/619m8rLBQSL._SX522_.jpg"
+        },
+        {
+            "id":34,
+            "name":"iPhone SE (3rd gen)",
+            "desc":"Screen:4.7\" Storage:64/128/256GB Processor:Apple A15",
+            "price":43022,
+            "color":"Starlight,Midnight,(PRODUCT)RED™",
+            "image":"https://m.media-amazon.com/images/I/61-MT8AQAPL._SX522_.jpg"
+        },
+        {
+            "id":35,
+            "name":"iPhone 14",
+            "desc":"Screen:6.1\" Storage:128/256/512GB Processor:Apple A15",
+            "price":79900,
+            "color":"Midnight,Starlight,Blue,Purple,Yellow,(PRODUCT)RED™",
+            "image":"https://www.jiomart.com/images/product/420x420/493177768/apple-iphone-14-plus-128-gb-purple-digital-o493177768-p593689593-0-202209091941.jpeg"
+        },
+        {
+            "id":36,
+            "name":"iPhone 14 Plus",
+            "desc":"Screen:6.7\" Storage:128/256/512GB Processor:Apple A15",
+            "price":75999,
+            "color":"Midnight,Starlight,Blue,Purple,Yellow,(PRODUCT)RED™",
+            "image":"https://m.media-amazon.com/images/I/71emcsxsRPL._SL1500_.jpg"
+        },
+        {
+            "id":37,
+            "name":"iPhone 14 Pro",
+            "desc":"Screen:6.1\" Storage:128/256/512GB,1TB Processor:Apple A16",
+            "price":119000,
+            "color":"Space Black, Silver, Gold, Deep Purple",
+            "image":"https://m.media-amazon.com/images/I/61lKQWyMdDL._SL1500_.jpg"
+        },
+        {
+            "id":38,
+            "name":"iPhone 14 Pro Max",
+            "desc":"Screen:6.7\" Storage:128/256/512GB,1TB Processor:Apple A16",
+            "price":127999,
+            "color":"Space Black, Silver, Gold, Deep Purple",
+            "image":"https://m.media-amazon.com/images/I/71T5NVOgbpL._SL1500_.jpg"
+        }
+    ]
+}
